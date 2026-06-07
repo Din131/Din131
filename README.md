@@ -26,6 +26,4 @@ Building data pipelines that scale. Passionate about transforming raw data into 
 
 ### 📊 GitHub Stats
 
-![Din's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Din131&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Din131&layout=compact&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Din131&hide_border=true)
