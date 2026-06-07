@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Pradito Nazaruddin 👋</h1>
 <p align="center">
-  <b>Data Engineer · 4+ Years in Banking Sector · Surakarta, Indonesia</b>
+  <b>Data Engineer · 4+ Years in Banking Sector · Jakarta, Indonesia</b>
 </p>
 
 ---
@@ -61,7 +61,7 @@ Today, I specialize in **end-to-end data engineering** — from raw ingestion to
 - 💼 Data Engineer & BI Engineer @ PT Avows Technologies (PT Bank BTPN Syariah)
 - 🎓 B.Sc. Informatics Engineering, UPN "Veteran" Yogyakarta — Cum Laude
 - ☁️ Experienced with AWS & Tableau
-- 📍 Based in Surakarta, Indonesia
+- 📍 Based in Jakarta, Indonesia
 - 📬 Reach me at [praditonazaruddin@gmail.com](mailto:praditonazaruddin@gmail.com)
 - 🔗 Connect on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 
