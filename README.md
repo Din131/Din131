@@ -44,18 +44,6 @@ Today, I specialize in **end-to-end data engineering** — from raw ingestion to
 
 ---
 
-## 🏦 What I've Built
-
-| Project | Impact |
-|---|---|
-| 🏗 AWS Data Warehouse Migration | Led migration from on-prem Azure to AWS with 99.9% SLA compliance |
-| 📊 Remote Audit System | SSIS + Azure SQL + Tableau for end-to-end audit visibility |
-| 📈 T24 Mobile Banking Data Mart | Improved report delivery times by 50% |
-| 🤖 Regulatory Report Automation | Reduced manual reporting effort by 80% at Bank Mandiri |
-| 🔗 Risk Integration System | End-to-end data integration with SSIS + Tableau dashboards |
-
----
-
 ## 📌 About Me
 
 - 💼 Data Engineer & BI Engineer @ PT Avows Technologies (PT Bank BTPN Syariah)
